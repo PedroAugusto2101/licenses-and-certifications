@@ -1,34 +1,51 @@
-# 🏅 My Certificates
+<h1>🏅 My Certificates</h1>
+<hr />
 
----
+<h2>🗺️ Professional/International Certifications</h2>
 
-## 🗺️ Professional/International Certifications
+<h3>Cambridge</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/fce-b2-cambridge.png" width="300px" alt="Cambridge Certificate" />
+</div>
 
-### Cambridge
-![HTML & CSS Certificate](./certificates/web-development/html-css-alura.png)
+<hr />
 
----
+<h2>💻 Online Courses/University Certifications</h2>
 
-## 💻 Online Courses/University Certifications
+<h3>DataCamp</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/intermediate-python.png" width="300px" alt="Intermediate Python" />
+  <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/intermediate-python.png" width="300px" alt="Intermediate Python" />
+  <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/intermediate-python.png" width="300px" alt="Intermediate Python" />
+</div>
 
-### DataCamp
-![HTML & CSS Certificate](./certificates/web-development/html-css-alura.png)
+<h3>Udemy</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="./certificates/web-development/html-css-alura.png" width="300px" alt="HTML & CSS Certificate" />
+</div>
 
-### Udemy
-![HTML & CSS Certificate](./certificates/web-development/html-css-alura.png)
+<h3>LinkedIn</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="./certificates/mobile-development/flutter-udemy.png" width="300px" alt="Flutter Certificate" />
+</div>
 
-### LinkedIn
-![Flutter Certificate](./certificates/mobile-development/flutter-udemy.png)
+<h3>University - Newton Paiva</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="./certificates/cloud-computing/aws-foundations.png" width="300px" alt="AWS Certificate" />
+</div>
 
-### University - Newton Paiva
-![AWS Certificate](./certificates/cloud-computing/aws-foundations.png)
+<h3>Hashtag Treinamentos</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="./certificates/web-development/js-advanced-udemy.png" width="300px" alt="JavaScript Certificate" />
+</div>
 
-### Hashtag Treinamentos
-![JavaScript Certificate](./certificates/web-development/js-advanced-udemy.png)
+<h3>OneBitCode</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="./certificates/ai-ml/ml-basics-coursera.png" width="300px" alt="ML Certificate" />
+</div>
 
-### OneBitCode
-![ML Certificate](./certificates/ai-ml/ml-basics-coursera.png)
+<hr />
 
----
-
-> 🔄 This repository is continuously updated with new certificates.
+<blockquote>
+  🔄 This repository is continuously updated with new certificates.
+</blockquote>
