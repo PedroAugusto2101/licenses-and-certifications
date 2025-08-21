@@ -12,6 +12,11 @@
 
 <h2>💻 Online Courses/University Certifications</h2>
 
+<h3>Coursera</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/machine_learning_coursera_page-0001.jpg" width="300px" alt="Machine Learning specialization" />
+</div>
+
 <h3>DataCamp</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/intermediate-python.png" width="300px" alt="Intermediate Python" />
