@@ -6,7 +6,7 @@
 <h3>Cambridge</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/fce-b2-cambridge.png" width="300px" alt="Cambridge FCE B2 Certificate" />
-  <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/systems-analysis-development.png" width="300px" alt="undergraduate degree in Systems Analysis and Development" />
+  <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/systems-analysis-development.png" width="500px" alt="undergraduate degree in Systems Analysis and Development" />
 </div>
 
 <hr />
