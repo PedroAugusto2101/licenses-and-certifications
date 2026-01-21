@@ -15,6 +15,7 @@
 <h3>Coursera</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/machine_learning_coursera_page-0001.jpg" width="300px" alt="Machine Learning specialization" />
+  <img src="https://github.com/PedroAugusto2101/licenses-and-certifications/blob/main/img/systems-analysis-development.png" width="300px" alt="undergraduate degree in Systems Analysis and Development" />
 </div>
 
 <h3>DataCamp</h3>
